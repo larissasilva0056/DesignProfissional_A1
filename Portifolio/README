@@ -1,1 +1,106 @@
+Portfólio Acadêmico — Projetos de Ciência da Computação e Front-End
 
+Este documento reúne e apresenta os principais projetos desenvolvidos nas matérias:
+
+Algoritmos e Pensamento Computacional
+
+Desenvolvimento Front-End para Web
+
+Os projetos foram organizados e destacados conforme sua relevância para o aprendizado e evolução técnica.
+
+1. Algoritmos e Pensamento Computacional — CC
+
+Repositório:
+https://github.com/larissasilva0056/Algoritmos-e-Pensamento-Computacional---CC
+
+Conteúdos Trabalhados na Disciplina
+
+Lógica de programação aplicada a problemas reais
+
+Estruturas condicionais
+
+Laços de repetição
+
+Funções e modularização
+
+Manipulação de listas e estruturas básicas
+
+Projetos Importantes
+1. Estruturas Condicionais
+
+Exercícios utilizando if, elif e else.
+Importância: base para o controle de fluxo em qualquer linguagem de programação.
+
+2. Laços de Repetição
+
+Programas com for e while para cálculos, verificações e manipulação de dados.
+Importância: permite automatizar tarefas repetitivas e trabalhar com sequências.
+
+3. Funções
+
+Códigos organizados em funções com parâmetros e retorno.
+Importância: auxilia na organização, leitura e reuso do código.
+
+4. Trabalhos com Listas
+
+Busca de valores, inserção, ordenação simples e iteração sobre listas.
+Importância: conteúdo essencial para tratar dados maiores e desenvolver algoritmos eficientes.
+
+2. Desenvolvimento Front-End para Web
+
+Repositório:
+https://github.com/larissasilva0056/Desevolvimento-Front-End-Para-Web
+
+Conteúdos Trabalhados na Disciplina
+
+Criação de páginas utilizando HTML
+
+Estilização com CSS (incluindo responsividade)
+
+Interações básicas usando JavaScript
+
+Organização de layouts
+
+Boas práticas de design e usabilidade
+
+Projetos Importantes
+1. Página Web Estruturada
+
+Desenvolvimento de páginas completas com HTML semântico.
+Importância: estrutura fundamental para qualquer projeto web.
+
+2. Layout Responsivo com CSS
+
+Projetos utilizando Flexbox, Grid e Media Queries.
+Importância: essencial para sites funcionarem corretamente em diferentes dispositivos.
+
+3. Formulário com Validação
+
+Formulários estruturados com HTML, estilizados com CSS e validados com JavaScript.
+Importância: funcionalidade presente em sistemas reais.
+
+4. Interações com JavaScript
+
+Manipulação do DOM, eventos e alteração dinâmica de conteúdo.
+Importância: permite criar interfaces mais dinâmicas e intuitivas.
+
+Como Executar os Projetos
+Repositórios
+git clone https://github.com/larissasilva0056/Algoritmos-e-Pensamento-Computacional---CC
+git clone https://github.com/larissasilva0056/Desevolvimento-Front-End-Para-Web
+
+Projetos de Front-End
+
+Abrir o arquivo index.html no navegador ou utilizar a extensão Live Server no VSCode.
+
+Projetos de Algoritmos
+
+Executar cada arquivo conforme a linguagem usada, por exemplo:
+
+python arquivo.py
+
+Autora
+
+Larissa Souza da Silva
+Estudante de Ciência da Computação
+GitHub: https://github.com/larissasilva0056
